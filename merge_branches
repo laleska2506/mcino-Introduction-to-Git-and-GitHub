@@ -1,0 +1,12 @@
+
+LALESKA@DESKTOP-81U0GAR MINGW64 /d/mcino-Introduction-to-Git-and-GitHub (bug-fix-typo)
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+LALESKA@DESKTOP-81U0GAR MINGW64 /d/mcino-Introduction-to-Git-and-GitHub (main)
+$ git merge bug-fix-typo
+Updating a836311..c6bd8ea
+Fast-forward
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
